@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.58984" height="2" viewBox="0 0 38.58984 2">
+  <defs>
+    <style>
+      .a, .b {
+        fill: none;
+        stroke-miterlimit: 10;
+        isolation: isolate;
+      }
+
+      .a {
+        stroke: #0051b0;
+      }
+
+      .b {
+        stroke: #96afc8;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="a" y1="0.5" x2="38.58984" y2="0.5"/>
+    <line class="b" y1="1.5" x2="38.58984" y2="1.5"/>
+  </g>
+</svg>

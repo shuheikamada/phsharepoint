@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+
+
+
+html {
+overflow-y:scroll;
+}
+
+body,
+div,
+dl, dt, dd,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6,
+pre,
+form, fieldset, textarea,
+p, blockquote,
+th, td, legend {
+margin: 0;
+padding: 0;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+font-feature-settings: "palt";
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-size: 100%;
+font-weight: normal;
+}
+
+address, caption, cite, code, th {
+font-style: normal;
+font-weight:normal;
+}
+
+
+/*
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+*/
+
+caption, th {
+text-align: left;
+}
+
+ul {
+list-style: none;
+}
+
+ol {
+list-style: none;
+}
+
+img,  fieldset {
+border: 0;
+}
+
+img, object, embed {
+vertical-align: bottom;
+}
+
+legend {
+color:#333333;
+}
+
+
+/* IEすきまバグ対策 */
+
+ul li img{
+vertical-align:bottom;
+}
+
+/* リンク */
+
+a:link{
+color:#000000;
+text-decoration:none;
+}
+
+a:visited{
+color:#000000;
+text-decoration:none;
+}
+
+a:active, a:hover{
+color:#525252;
+text-decoration:none;
+transition: 0.3s ;
+}

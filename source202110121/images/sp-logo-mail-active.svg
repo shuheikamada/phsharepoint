@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="17" viewBox="0 0 27 17">
+  <defs>
+    <style>
+      .a {
+        fill: #0051b0;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="a" d="M13.50391,9.68311,0,1.2041V16a1,1,0,0,0,1,1H26a1,1,0,0,0,1-1V1.09473Z"/>
+    <polygon class="a" points="24.994 0 1.843 0 13.496 7.317 24.994 0"/>
+  </g>
+</svg>

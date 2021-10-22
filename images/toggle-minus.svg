@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="2" viewBox="0 0 15 2">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <line class="a" y1="1" x2="15" y2="1"/>
+</svg>
